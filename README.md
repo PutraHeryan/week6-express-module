@@ -49,6 +49,3 @@ Endpoint dinamis ini menampilkan detail dari satu profil spesifik berdasarkan ni
 
 <img width="1919" height="1016" alt="file_2025-09-25_15 24 26" src="https://github.com/user-attachments/assets/21cb2a14-0611-4e4c-b38a-46a304e700df" />
 
-[GANTI BARIS INI DENGAN SCREENSHOT ANDA]
-
-Contoh: ![Hasil Halaman Detail Profile](./screenshots/hasil-detail-profile.png)
