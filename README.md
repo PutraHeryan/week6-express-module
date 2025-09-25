@@ -1,12 +1,13 @@
 Assignment: Express.js & Modul Node.js
 
-Identitas
+IIDENTITAS
 
 Nama : Putra Heryan Gagah Perkasa
 
 NIM : F1D022087
 
-Deskripsi Tugas
+DESKRIPSI TUGAS
+
 Tugas ini bertujuan untuk membuat sebuah server web sederhana menggunakan framework Express.js pada lingkungan Node.js.
 Server utama (index.js) akan menangani beberapa route:
 
@@ -16,7 +17,8 @@ Route /hitung yang memanfaatkan fungsi tambah() dari modul lokal utils/math.js u
 
 Route /profile yang di-handle oleh modul router terpisah (routes/profile.js) untuk menampilkan data profil dalam format JSON. Router ini juga menangani parameter dinamis untuk menampilkan detail profil berdasarkan NIM.
 
-Hasil
+HASIL
+
 Berikut adalah hasil eksekusi dari setiap endpoint yang telah dibuat, diakses melalui browser.
 
 1. Halaman Utama (/)
